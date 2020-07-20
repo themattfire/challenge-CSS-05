@@ -10,7 +10,7 @@ La idea de este reto es que repliques el siguiente componente usando Flexbox. En
 <img src="https://i.ibb.co/ZRsVTxs/3.png" alt="componente para replicar" />
 </kbd>
 
-> [Fuente de la imagen | Material Design](https://material.io/components/app-bars-top)
+> [Fuente de la imagen | Material Design](https://material.io/components/cards)
 
 Te dejo la siguiente documentación útil para resolver el reto:
 
